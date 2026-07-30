@@ -22,9 +22,12 @@
 
 
 
-## Artefact 3 — Conference Paper: 
+## Artefact 3 — Conference Paper: "Workplace Layout Analysis"
+**Source:** Watanabe, M. and Takashima, K. (2025) 'Controlling Visual and Auditory Information Propagation Using Interactive AR Partitions in Open-Plan Office', in Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). New York: Association for Computing Machinery, Article 706, pp. 1–4.  
 
+**Summary:** This CHI 2025 paper tackles a common problem in open-plan offices: workers report high distraction despite the space's cost and collaboration benefits. The researchers built an interactive augmented-reality partition system that lets individual workers dynamically control how much visual and auditory information passes between themselves and neighbouring desks, effectively an adjustable, on-demand layout rather than a fixed physical one.  
 
+**Justification:** This connects to workplace layout analysis, one of the techniques for analysing human interactions from Week 3 (slide 31). It reframed layout for me: rather than a fixed floor plan decided once, this treats layout as something measurable and adjustable per worker, a more dynamic view of "analysing" a workplace than I'd expected going into the topic (Watanabe and Takashima, 2025, p. 2).
 
 
 ## Artefact 4 — Master Thesis: Resource Allocation Analysis
