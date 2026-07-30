@@ -9,10 +9,10 @@
 ---
 
 
-## Artefact 1 — 
+## Artefact 1 — Website / Youtube Vide0 / Blog Post
 
 
-## Artefact 2 — Peer Reviewed Journal Article: "SCOR-based Process Analysis"
+## Artefact 2 — Peer-Reviewed Journal Article: "SCOR-based Process Analysis"
 
 **Source:** Tolentino, C., Díaz Gurrola, E., Segura Lozano, X., Granados-Montelongo, J.A., Álvarez-Gaona, J.A. and Moreno-Cepeda, R. (2025) 'Optimizing Supply Chain Management: A Decision-Making Approach for Performance Enhancement', *Journal of Information Systems Engineering and Management*, 10(15s), pp. 208–214.
 
