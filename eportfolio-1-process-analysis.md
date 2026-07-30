@@ -9,14 +9,14 @@
 ---
 
 
-## Artefact 1 — Website / Youtube Vide0 / Blog Post
+## Artefact 1 — Website / YouTube Video / Blog Post:
 
 
 ## Artefact 2 — Peer-Reviewed Journal Article: "SCOR-based Process Analysis"
 
 **Source:** Tolentino, C., Díaz Gurrola, E., Segura Lozano, X., Granados-Montelongo, J.A., Álvarez-Gaona, J.A. and Moreno-Cepeda, R. (2025) 'Optimizing Supply Chain Management: A Decision-Making Approach for Performance Enhancement', *Journal of Information Systems Engineering and Management*, 10(15s), pp. 208–214.
 
-*Summary:* This article proposes a hybrid model that combines the Supply Chain Operations Reference (SCOR) framework with artificial neural networks to diagnose and improve supply chain processes. Using SCOR's five core processes Plan, Source, Make, Deliver, Return as a diagnostic structure, the authors applied the model to three case companies, uncovering inefficiencies in inventory control, supplier coordination, and delivery accuracy, and improved overall process efficiency by 5–9%.
+*Summary:* This article proposes a hybrid model that combines the Supply Chain Operations Reference (SCOR) framework with artificial neural networks to diagnose and improve supply chain processes. Using SCOR's five core processes Plan, Source, Make, Deliver, Return as a diagnostic structure, the authors applied the model to three case companies, uncovering inefficiencies in inventory control, supplier coordination, and delivery accuracy, and improving overall process efficiency by 5–9%.
 
 *Justification:* I chose this article because it shows one of the "Process Analysis Frameworks" from Week 3 (slide 14) — SCOR — applied in a live analysis rather than described in the abstract. It helped me understand that frameworks are diagnostic starting points, not just classification schemes: SCOR provided researchers with a structured checklist against which real inefficiencies could be measured and identified (Tolentino et al., 2025, p. 211).
 
