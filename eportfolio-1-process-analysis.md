@@ -8,6 +8,7 @@
 
 ---
 
+
 ## Artefact 1 — Video: "7-Step Business Analysis Process"
 
 **Source:** A Business Professor (2025) *7-Step Business Analysis Process*. YouTube. Available at: https://www.youtube.com/watch?v=K-On6jTPHxY (Accessed: [date you viewed it]).
@@ -16,13 +17,42 @@
 
 *Justification (~60 words):* [Why you chose it — tie it to a specific lecture concept, e.g. "This connects to the concept of X discussed in the unit (ABPMP International, 2019, p. XXX)"]
 
-## Artefact 2 — Journal article: "Manufacturing process analysis framework for process mining"
 
-**Source:** Lee, Y., Shin, J. and Lee, W. (2025) 'Manufacturing process analysis framework for process mining: case study of fully automated factory applications', *International Journal of Advanced Manufacturing Technology*, 136, pp. 5641–5664.
 
-*Summary (~65 words):* [What the case study analysed and found]
 
-*Justification (~60 words):* [Why relevant, e.g. (Lee, Shin and Lee, 2025, p. 5645)]
+
+
+
+## Artefact 2 — Peer Reviewed Journal Article: "SCOR-based Process Analysis"
+
+**Source:** Tolentino, C., Díaz Gurrola, E., Segura Lozano, X.,
+Granados-Montelongo, J.A., Álvarez-Gaona, J.A. and Moreno-Cepeda, R. (2025)
+'Optimizing Supply Chain Management: A Decision-Making Approach for
+Performance Enhancement', *Journal of Information Systems Engineering and
+Management*, 10(15s), pp. 208–214.
+
+*Summary:* This article proposes a hybrid model that combines the
+Supply Chain Operations Reference (SCOR) framework with artificial neural
+networks to diagnose and improve supply chain processes. Using SCOR's five
+core processes Plan, Source, Make, Deliver, Return as a diagnostic
+structure, the authors applied the model to three case companies, uncovering
+inefficiencies in inventory control, supplier coordination, and delivery
+accuracy, and improved overall process efficiency by 5–9%.
+
+*Justification:* I chose this article because it shows one of the
+"Process Analysis Frameworks" from Week 3 (slide 14) — SCOR — applied in a
+live analysis rather than described in the abstract. It helped me understand
+that frameworks are diagnostic starting points, not just classification
+schemes: SCOR gave the researchers a structured checklist against which real
+inefficiencies could be measured and located (Tolentino et al., 2025, p. 211).
+
+
+
+
+
+
+
+
 
 ## Artefact 3 — Blog: "Five Whys Root Cause Analysis"
 
