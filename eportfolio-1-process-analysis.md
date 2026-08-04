@@ -30,7 +30,7 @@
 **Justification:** This connects to workplace layout analysis, one of the techniques for analysing human interactions from Week 3 (slide 31). It reframed layout for me: rather than a fixed floor plan decided once, this treats layout as something measurable and adjustable per worker, a more dynamic view of "analysing" a workplace than I'd expected going into the topic (Watanabe and Takashima, 2025, p. 2).
 
 
-## Artefact 4 — Master Thesis: Resource Allocation Analysis
+## Artefact 4 — Master Thesis: "Resource Allocation Analysis"
 
 **Source:** Anger, K.A. and Klefbom Ridderstråle, J. (2025) 'More Than Just Delegation: The Intersection of Managerial Task Allocation and Employee's Self-Selection: An Exploratory Study of Managers' Reasoning and Management-Independent Factors Driving Task Distribution in a Swedish Multinational Industrial Company', Master's thesis. Stockholm School of Economics.
 
