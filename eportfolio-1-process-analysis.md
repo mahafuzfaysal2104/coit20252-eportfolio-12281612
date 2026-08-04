@@ -10,9 +10,9 @@
 
 
 ## Artefact 1 — Website: "Process Ownership (Functional vs. Non-functional)"
-**Source:** Team Asana (2026) 'Matrix organization: types, pros, cons & examples guide', Asana Resources. Available at: https://asana.com/resources/matrix-organization (Accessed: [Date you viewed this]).
+**Source:** Team Asana (2026) 'Matrix organization: types, pros, cons & examples guide', Asana Resources. Available at: https://asana.com/resources/matrix-organization (Accessed: [03 August 2026]).
 
-**Summary**: This guide by Asana, published in February 2026, explains the matrix organizational structure, in which employees report simultaneously to a functional department head and a project or process manager. It highlights the distinctions between the three types of matrix structures—weak, balanced, and strong—differentiated primarily by the level of authority held by each manager. Furthermore, it compares the matrix structure with the pure functional structure, noting that functional structures often create isolated work environments or 'silos,' whereas cross-functional reporting systems break down these barriers.
+**Summary**: This guide by Asana, published in February 2026, explains the matrix organizational structure, in which employees report simultaneously to a functional department head and a project or process manager. It highlights the distinctions between the three types of matrix structures—weak, balanced, and strong—differentiated primarily by the level of authority held by each manager. Furthermore, it compares the matrix structure with the pure functional structure, noting that functional structures often create isolated work environments or 'silos.' In contrast, cross-functional reporting systems break down these barriers.
 
 **Justification**: This directly illustrates the topic from Week 2 (Slides 12–13)—the distinction between functional and non-functional process ownership. Observing the dual reporting systems in real-world companies like Nike and NASA makes the organizational structure diagrams shown in the lecture more tangible and comprehensible: non-functional ownership is not a substitute for functional management; rather, it is an additional reporting mechanism designed to ensure that 'end-to-end' processes do not become fragmented or incomplete due to departmental boundaries (ABPMP International, 2019, p. 47).  
 
@@ -45,4 +45,12 @@
 ---
 
 ## References
+## References
 
+Anger, K.A. and Klefbom Ridderstråle, J. (2025) 'More Than Just Delegation: The Intersection of Managerial Task Allocation and Employee's Self-Selection: An Exploratory Study of Managers' Reasoning and Management-Independent Factors Driving Task Distribution in a Swedish Multinational Industrial Company', Master's thesis. Stockholm School of Economics.
+
+Team Asana (2026) 'Matrix organization: types, pros, cons & examples guide', *Asana Resources*. Available at: https://asana.com/resources/matrix-organization
+
+Tolentino, C., Díaz Gurrola, E., Segura Lozano, X., Granados-Montelongo, J.A., Álvarez-Gaona, J.A. and Moreno-Cepeda, R. (2025) 'Optimizing Supply Chain Management: A Decision-Making Approach for Performance Enhancement', *Journal of Information Systems Engineering and Management*, 10(15s), pp. 208–214.
+
+Watanabe, M. and Takashima, K. (2025) 'Controlling Visual and Auditory Information Propagation Using Interactive AR Partitions in Open-Plan Office', in *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25)*. New York: Association for Computing Machinery, Article 706, pp. 1–4.
