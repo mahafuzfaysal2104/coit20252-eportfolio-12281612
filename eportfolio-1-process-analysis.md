@@ -9,8 +9,12 @@
 ---
 
 
-## Artefact 1 — Website / YouTube Video / Blog Post:
+## Artefact 1 — Website: "Process Ownership (Functional vs. Non-functional)"
+**Source:** Team Asana (2026) 'Matrix organization: types, pros, cons & examples guide', Asana Resources. Available at: https://asana.com/resources/matrix-organization (Accessed: [Date you viewed this]).
 
+**Summary**: This guide by Asana, published in February 2026, explains the matrix organizational structure, in which employees report simultaneously to a functional department head and a project or process manager. It highlights the distinctions between the three types of matrix structures—weak, balanced, and strong—differentiated primarily by the level of authority held by each manager. Furthermore, it compares the matrix structure with the pure functional structure, noting that functional structures often create isolated work environments or 'silos,' whereas cross-functional reporting systems break down these barriers.
+
+**Justification**: This directly illustrates the topic from Week 2 (Slides 12–13)—the distinction between functional and non-functional process ownership. Observing the dual reporting systems in real-world companies like Nike and NASA makes the organizational structure diagrams shown in the lecture more tangible and comprehensible: non-functional ownership is not a substitute for functional management; rather, it is an additional reporting mechanism designed to ensure that 'end-to-end' processes do not become fragmented or incomplete due to departmental boundaries (ABPMP International, 2019, p. 47).  
 
 ## Artefact 2 — Peer-Reviewed Journal Article: "SCOR-based Process Analysis"
 
