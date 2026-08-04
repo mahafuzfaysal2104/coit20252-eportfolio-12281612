@@ -46,8 +46,6 @@
 
 ## References
 
-## References
-
 ABPMP International (2019) *BPM CBOK: Guide to the Business Process Management Common Body of Knowledge*. Version 4.0. Association of Business Process Management Professionals. Available at: https://www.abpmp.org/page/guide_BPM_CBOK
 
 Anger, K.A. and Klefbom Ridderstråle, J. (2025) 'More Than Just Delegation: The Intersection of Managerial Task Allocation and Employee's Self-Selection: An Exploratory Study of Managers' Reasoning and Management-Independent Factors Driving Task Distribution in a Swedish Multinational Industrial Company', Master's thesis. Stockholm School of Economics.
