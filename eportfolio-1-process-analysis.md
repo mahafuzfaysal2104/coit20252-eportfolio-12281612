@@ -66,4 +66,4 @@ Watanabe, M. and Takashima, K. (2025) 'Controlling Visual and Auditory Informati
 
 
 ## AI Disclosure  
-
+A limited range of AI tools was used for initial idea generation, analytical framework formation, and optional GitHub code-related suggestions. I made all decisions independently regarding subtopic selection, literature search, source evaluation, and writing descriptions, explanations, and arguments. The final submitted work is my own original academic work.
