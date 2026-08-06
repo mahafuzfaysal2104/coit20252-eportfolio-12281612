@@ -21,6 +21,7 @@
 
 **Source:** Tolentino, C., Díaz Gurrola, E., Segura Lozano, X., Granados-Montelongo, J.A., Álvarez-Gaona, J.A. and Moreno-Cepeda, R. (2025) 'Optimizing Supply Chain Management: A Decision-Making Approach for Performance Enhancement', *Journal of Information Systems Engineering and Management*, 10(15s), pp. 208–214.  
 ![Picture of Peer-Reviewed Journal Article](picture2.png)  
+![PDF of Peer-Reviewed Journal Article](Artefact2.png)  
 
 **Summary:** This article proposes a hybrid model that combines the Supply Chain Operations Reference (SCOR) framework with artificial neural networks to diagnose and improve supply chain processes. Using SCOR's five core processes Plan, Source, Make, Deliver, Return as a diagnostic structure, the authors applied the model to three case companies, uncovering inefficiencies in inventory control, supplier coordination, and delivery accuracy, and improving overall process efficiency by 5–9%.
 
@@ -31,6 +32,8 @@
 ## Artefact 3 — Conference Paper: "Workplace Layout Analysis"
 **Source:** Watanabe, M. and Takashima, K. (2025) 'Controlling Visual and Auditory Information Propagation Using Interactive AR Partitions in Open-Plan Office', in Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). New York: Association for Computing Machinery, Article 706, pp. 1–4.  
 ![Picture of Conference Paper](picture3.png)  
+![PDF of Conference Papere](Artefact3.png)  
+
 
 **Summary:** This CHI 2025 paper tackles a common problem in open-plan offices: workers report high distraction despite the space's cost and collaboration benefits. The researchers built an interactive augmented-reality partition system that lets individual workers dynamically control how much visual and auditory information passes between themselves and neighbouring desks, effectively an adjustable, on-demand layout rather than a fixed physical one.  
 
@@ -41,6 +44,7 @@
 
 **Source:** Anger, K.A. and Klefbom Ridderstråle, J. (2025) 'More Than Just Delegation: The Intersection of Managerial Task Allocation and Employee's Self-Selection: An Exploratory Study of Managers' Reasoning and Management-Independent Factors Driving Task Distribution in a Swedish Multinational Industrial Company', Master's thesis. Stockholm School of Economics.  
 ![Picture of Master Thesis](picture4.png)  
+![PDF of Master Thesis](Artefact4.png)  
 
 **Summary:** Based on 22 interviews within a multinational Swedish company, this thesis explores how managers decide who to assign tasks to, and how employees sometimes select tasks themselves. It identifies a "managerial assessment process" weighing employee capacity, skill, and past performance, alongside management-independent mechanisms organisational habits and volunteering that also shape how work gets distributed.
 
@@ -59,3 +63,7 @@ Team Asana (2026) 'Matrix organization: types, pros, cons & examples guide', *As
 Tolentino, C., Díaz Gurrola, E., Segura Lozano, X., Granados-Montelongo, J.A., Álvarez-Gaona, J.A. and Moreno-Cepeda, R. (2025) 'Optimizing Supply Chain Management: A Decision-Making Approach for Performance Enhancement', *Journal of Information Systems Engineering and Management*, 10(15s), pp. 208–214.
 
 Watanabe, M. and Takashima, K. (2025) 'Controlling Visual and Auditory Information Propagation Using Interactive AR Partitions in Open-Plan Office', in *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25)*. New York: Association for Computing Machinery, Article 706, pp. 1–4.
+
+
+## AI Disclosure  
+
