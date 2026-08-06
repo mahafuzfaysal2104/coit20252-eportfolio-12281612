@@ -3,7 +3,7 @@
 **Student name:** Md Mahafuz Faysal  
 **Student ID:** 12281612  
 **Unit:** COIT20252 Business Process Management, Term 2 2026.  
-**Institution:** CQUniversity  
+**University:** Central Queensland University  
 
 ## About this e-portfolio
 
