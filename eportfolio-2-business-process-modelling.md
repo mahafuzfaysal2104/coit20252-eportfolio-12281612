@@ -1,142 +1,159 @@
-
-# e-Portfolio 2 — Business Process Modelling
-
-**COIT20252 Business Process Management**
-**Term 1 2026**
-**Name:** MD Mahafuz Faysal
-**Student number:** 12281612
-**Submitted:** Friday 4 September 2026
-
+# e-Portfolio 2 — Business Process Modelling  
+  
+**COIT20252 Business Process Management**  
+**Term 1 2026**  
+**Name:** MD Mahafux Faysal
+**Student number:** 12281612  
+**Submitted:** Friday 4 September 2026  
+  
 ---
 
 ## Overview
 
+This e-portfolio examines Business Process Modelling across four artefacts, moving from
+notation and role modelling, through enterprise-level process frameworks, to the design and
+measurement of redesigned processes.
 
-
-
-
-| # | Artefact | Source type | Year | Subtopic |
+| # | Subtopic | Week | Source type | Year |
 |---|---|---|---|---|
-| 1 | {Title} | Source type | Year | Subtopic |
-| 2 | {Title} | Source type | Year | Subtopic |
-| 3 | {Title} | Source type | Year | Subtopic |
-| 4 | {Title} | Source type | Year | Subtopic |
-
+| 1 | Swim lane diagrams and role modelling | 4 | Website / practitioner guide | 2026 |
+| 2 | Process model frameworks and business architecture | 5 | Conference paper | 2025 |
+| 3 | Process performance measurement and metric dimensions | 6 | Peer-reviewed journal article | 2025 |
+| 4 | Resource allocation, cycle time and simulation | 6 | PhD thesis | 2026 |
 
 ---
 
-## Artefact 1 — Process Performance Measurement
+## Artefact 1 — Swim Lane Diagrams and Role Modelling
 
-> **Source type:** Peer-reviewed journal article
-> **Link:** {{URL}}
-
+> **Source type:** Website / practitioner guide
+> **Link:** https://skills.visual-paradigm.com/docs/bpmn-fundamentals-for-beginners/bpmn-process-modeling/bpmn-swimlanes-role-responsibility-modeling/  
+<img width="2547" height="1439" alt="image" src="https://github.com/user-attachments/assets/246b1666-ec68-4977-beb6-02aebc38f8f4" />
+  
+  
 ### Summary
 
-{{~60 words. What the artefact is about. Must carry its own in-text citation with a page
-number — e.g. (Author Year, p. X).}}
+This artefact is a practitioner guide to BPMN swim lanes published by Visual Paradigm. It
+explains that lanes are horizontal or vertical divisions grouping activities by the role,
+department or system responsible for them, and treats lanes as functional modelling
+components rather than visual decoration. It also sets a practical limit, recommending three
+to six lanes per process diagram (Visual Paradigm 2026, n.p.).
 
 ### Justification
 
-{{~65 words. Why this artefact is relevant to Business Process Modelling and what you
-learned from it. Link explicitly to a unit concept — measure vs metric vs indicator, or the
-time/cost/capacity/quality dimensions. Cite again with a page number.}}
+The BPM CBOK presents swim lane diagrams as a notation, reserving the top lane for the
+customer or whichever entity initiates the process (ABPMP International 2019, p. 99). This
+artefact adds the design judgement the textbook omits: too many lanes clutter a diagram,
+while too few obscure who owns each activity (Visual Paradigm 2026, n.p.). I learned that
+assigning tasks to lanes is a decision about accountability and handoff points, not layout.
 
 ---
 
-## Artefact 2 — Process Design Principles
-
-> **Source type:** Website / blog post
-> **Link:** {{URL}}
-> **Note:** web source has no pagination — cite as (Author Year, n.p.) or by paragraph number.
-
-### Summary
-
-{{~60 words, with its own cited claim.}}
-
-### Justification
-
-{{~65 words. Connect to Week 6 design principles — designing from the outside in, minimising
-handoffs, redesign before automating.}}
-
----
-
-## Artefact 3 — Process Simulation and Validation
+## Artefact 2 — Process Model Frameworks and Business Architecture
 
 > **Source type:** Conference paper
-> **Link:** {{URL}}
-
+> **Link:** https://ceur-ws.org/Vol-4033/paper-02.pdf  
+<img width="2559" height="1434" alt="image" src="https://github.com/user-attachments/assets/134d3f8a-1a28-4335-978f-61c8e82d205f" />  
+  
+  
 ### Summary
 
-{{~60 words, with its own cited claim.}}
+This artefact is a case study presented at the BPM 2025 Industry and Society Forum. It
+documents how Sri Lanka Telecom moved from a legacy, siloed operator to a process-oriented
+enterprise without external consultancy. The transformation was anchored by TM Forum's
+enhanced Telecom Operations Map (eTOM) and driven by a re-engineering team that grew from a
+small task force into a centre of excellence (Jayasuriya et al. 2025, p. 11).
 
 ### Justification
 
-{{~65 words. Connect to validating a to-be model before implementation, and to simulation as
-a way of predicting design performance.}}
+The CBOK lists industry-specific frameworks alongside Porter's value chain, SCOR and APQC's
+PCF as ways to categorise and group processes (ABPMP International 2019, p. 116), but does
+not show one in use. This case shows eTOM supplying that enterprise structure, and reports
+that undocumented operations had produced integration failures and data inconsistencies
+(Jayasuriya et al. 2025, p. 11). I learned that a framework's value lies in alignment, not
+classification.
 
 ---
 
-## Artefact 4 — BPMN Notation and Model Creation
+## Artefact 3 — Process Performance Measurement and Metric Dimensions
 
-> **Source type:** Master's thesis
-> **Link:** {{URL}}
-
+> **Source type:** Peer-reviewed journal article
+> **Link:** https://www.mdpi.com/2079-8954/13/7/547
+<img width="1278" height="961" alt="image" src="https://github.com/user-attachments/assets/f9e5d3a0-b9a9-4c96-8449-571ddfb8330f" />  
+  
+    
 ### Summary
 
-{{~60 words, with its own cited claim.}}
+This artefact is an open-access article in *Systems* proposing a framework that integrates
+process mining with Global Reporting Initiative metrics. Environmental, social and economic
+indicators are embedded into event logs so that sustainability can be measured at the level
+of individual activities rather than the organisation as a whole. Applied to a Purchase-to-Pay
+process, delays raised emissions by 16.7% and rework raised waste generation by 41.7%
+(Areta Hiziroglu & Dogan 2025, p. 1).
 
 ### Justification
 
-{{~65 words. Connect to BPMN 2.0, swim lanes, or capturing process information from subject
-matter experts.}}
+The CBOK positions process metrics across the activity, process and enterprise levels
+(ABPMP International 2019, p. 184). This artefact extends measurement into environmental and
+social dimensions and finds that no single process variant performs best across all of them
+(Areta Hiziroglu & Dogan 2025, p. 1). I learned that the choice of metric determines which
+trade-offs an organisation is able to see at all.
 
 ---
 
-## Reflection
+## Artefact 4 — Resource Allocation as a Design Decision
+ 
+> **Source type:** PhD thesis
+> **Link:** https://research.tue.nl/files/379436006/20260210_Middelhuis_mail.pdf
+<img width="2557" height="1439" alt="image" src="https://github.com/user-attachments/assets/de848995-5453-4a08-ad00-2982309f9f0e" />  
+  
+  
+### Summary
+ 
+This artefact is a 2026 PhD thesis from Eindhoven University of Technology on optimising
+resource allocation in business processes. It frames allocation as a Data-Driven Business
+Process Optimization problem, where the aim is to optimise the whole process against a key
+performance indicator rather than the outcome of individual cases. Trained on a real-world
+process reproduced in a hybrid simulation model, the method achieved a 45% lower mean cycle
+time than the benchmarks (Middelhuis 2026, p. {{PAGE}}).
+ 
+### Justification
+ 
+The CBOK positions process design as the second stage of phase two of the BPM life cycle,
+where planning for change occurs (ABPMP International 2019, p. 161). This thesis shows that
+decisions about which resource performs which task can be optimised against a single
+performance indicator, with simulation providing the environment in which those policies are
+tested before deployment (Middelhuis 2026, p. {{PAGE}}). I learned that resource allocation is
+a design variable, not merely an operational detail.
 
-{{~50 words in your own voice. What changed in your understanding of process modelling across
-Weeks 4–6. Optional but strengthens the Communication and Justification criteria.}}
-
+ 
 ---
 
 ## References
 
-{{Alphabetised by author surname. Harvard style. No page numbers here — they belong only in
-the in-text citations. Every source cited above must appear in this list, including the CBOK
-textbook if you reference it.}}
-
 ABPMP International 2019, *BPM CBOK® version 4.0: guide to the business process management
 common body of knowledge*, Association of Business Process Management Professionals.
-
-{{Reference 2}}
-
-{{Reference 3}}
-
-{{Reference 4}}
-
-{{Reference 5}}
-
+ 
+Areta Hiziroglu, O & Dogan, O 2025, 'A framework for sustainability performance measurement
+through process mining: integration of GRI metrics in operational processes', *Systems*,
+vol. 13, no. 7, article 547, https://doi.org/10.3390/systems13070547.
+ 
+Jayasuriya, ND, Rajapaksha, D, Mirispelakotuwa, IU, Wimalasuriya, B, Bandara, W & Syed, R
+2025, 'From silos to synergy: embedding BPM at Sri Lanka Telecom to drive strategic
+alignment', in A Jimenez Ramirez, HA Lopez Acosta, E Serral Asensio, S Agostinelli &
+J De Smedt (eds), *Proceedings of the Industry and Society Forum at BPM 2025*, CEUR Workshop
+Proceedings, vol. 4033, pp. 11-20, https://ceur-ws.org/Vol-4033/paper-02.pdf.
+ 
+Middelhuis, J 2026, 'Resource allocation in business processes with deep reinforcement
+learning', PhD thesis, Eindhoven University of Technology, Eindhoven,
+https://research.tue.nl/en/publications/resource-allocation-in-business-processes-with-deep-reinforcement/.
+ 
+Visual Paradigm 2026, *BPMN swimlanes: role & responsibility modeling*, viewed
+4 September 2026,
+https://skills.visual-paradigm.com/docs/bpmn-fundamentals-for-beginners/bpmn-process-modeling/bpmn-swimlanes-role-responsibility-modeling/.
+ 
 ---
 
 ## AI disclosure
 
-I used AI to analyze the assessment and to generate ideas and GitHub code suggestions, but I
-selected the subtopics, searched relevant papers and websites, chose them, and wrote the
-descriptions myself.
+AI tools were used to a limited extent for generating initial ideas, developing an analytical framework, and providing optional suggestions related to GitHub code. However, I independently determined the subtopics, conducted the literature search, assessed the reliability and relevance of sources, and prepared all descriptions, explanations, and arguments. Therefore, the final submitted work represents my own original academic contribution.
 
----
-
-<!-- PRE-SUBMISSION CHECKLIST — delete this block before submitting
-
-[ ] Every in-text citation has a matching entry in the reference list
-[ ] Every Summary paragraph carries its own citation, not just the Justification
-[ ] Only one "## References" heading in the file
-[ ] Title block reads Term 1 2026
-[ ] Total word count checked against the ~500-word target (excludes references and citations)
-[ ] Reference list alphabetised correctly
-[ ] Every in-text citation has a page number, or n.p. for unpaginated web sources
-[ ] All four artefacts published 2025 or later
-[ ] Tutor added as a collaborator on the repository
-[ ] PDF exported (browser Print to PDF) and repository URL ready for Moodle
-
--->
