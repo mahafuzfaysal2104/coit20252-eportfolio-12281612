@@ -2,7 +2,7 @@
   
 **COIT20252 Business Process Management**  
 **Term 1 2026**  
-**Name:** MD Mahafux Faysal
+**Name:** MD Mahafuz Faysal  
 **Student number:** 12281612  
 **Submitted:** Friday 4 September 2026  
   
@@ -155,5 +155,5 @@ https://skills.visual-paradigm.com/docs/bpmn-fundamentals-for-beginners/bpmn-pro
 
 ## AI disclosure
 
-AI tools were used to a limited extent for generating initial ideas, developing an analytical framework, and providing optional suggestions related to GitHub code. However, I independently determined the subtopics, conducted the literature search, assessed the reliability and relevance of sources, and prepared all descriptions, explanations, and arguments. Therefore, the final submitted work represents my own original academic contribution.
+AI tools were used to a limited extent to generate initial ideas, develop an analytical framework, and provide optional suggestions related to GitHub code. However, I independently determined the subtopics, conducted the literature search, assessed the reliability and relevance of sources, and prepared all descriptions, explanations, and arguments. Therefore, the final submitted work represents my own original academic contribution.
 
