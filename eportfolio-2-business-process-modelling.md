@@ -114,7 +114,7 @@ resource allocation in business processes. It frames allocation as a Data-Driven
 Process Optimization problem, where the aim is to optimise the whole process against a key
 performance indicator rather than the outcome of individual cases. Trained on a real-world
 process reproduced in a hybrid simulation model, the method achieved a 45% lower mean cycle
-time than the benchmarks (Middelhuis 2026, p. {{PAGE}}).
+time than the benchmarks (Middelhuis 2026)
  
 ### Justification
  
@@ -122,7 +122,7 @@ The CBOK positions process design as the second stage of phase two of the BPM li
 where planning for change occurs (ABPMP International 2019, p. 161). This thesis shows that
 decisions about which resource performs which task can be optimised against a single
 performance indicator, with simulation providing the environment in which those policies are
-tested before deployment (Middelhuis 2026, p. {{PAGE}}). I learned that resource allocation is
+tested before deployment (Middelhuis 2026). I learned that resource allocation is
 a design variable, not merely an operational detail.
 
  
