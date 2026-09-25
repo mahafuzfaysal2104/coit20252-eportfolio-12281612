@@ -34,6 +34,7 @@ I selected this artefact because cybersecurity is not only an IT issue; it can d
 ### Screenshot / Evidence
 
 <img width="3438" height="2208" alt="image" src="https://github.com/user-attachments/assets/f01fbba9-a8e5-49b9-90e4-813037745d06" />  
+
 > **Screenshot 1:** Screenshot from *Cyber Security Insights 2025* showing evidence related to cybersecurity threats and controls.
 
 ### Source PDF
@@ -55,6 +56,7 @@ I chose this artefact because it connects BPM and the risk assessment process di
 ### Screenshot / Evidence
 
 <img width="3436" height="2198" alt="image" src="https://github.com/user-attachments/assets/50caf80a-5cf0-48a6-b7bf-8960fd8928ae" />  
+
 > **Screenshot 2:** Screenshot from Tomaskova et al. (2025) showing the use of FMEA/BPMN for process risk assessment.
 
 ### Source PDF
@@ -76,6 +78,7 @@ I selected this artefact because it directly supports the Week 10 discussion of 
 ### Screenshot / Evidence
 
 <img width="3446" height="2200" alt="image" src="https://github.com/user-attachments/assets/45a82b16-bf59-4c87-a955-940b3fb0f72f" />  
+
 > **Screenshot 3:** Screenshot from Sakib, Kawsar and Bithee (2025) showing evidence related to Lean Six Sigma and continuous process improvement.
 
 ### Source PDF
@@ -97,6 +100,7 @@ I chose this Master's thesis because it helped me clearly understand the differe
 ### Screenshot / Evidence
 
 <img width="3456" height="2136" alt="image" src="https://github.com/user-attachments/assets/bdab975b-58bb-424a-b96b-9950a43e02a6" />  
+
 > **Screenshot 4:** Screenshot from Lindfors and Wiksfors (2025) illustrating the differences and relationship between Lean and Six Sigma.
 
 ### Source PDF
