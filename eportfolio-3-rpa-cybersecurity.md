@@ -38,7 +38,7 @@ I selected this artefact because cybersecurity is not only an IT issue; it can d
 
 ### Source PDF
 
-📄 [View / Download Artefact 1 PDF](pdf/artefact-1-cyber-security-insights-2025.pdf)
+📄 [View / Download Artefact 1 PDF](artefact-1-cyber-security-insights-2025.pdf)
 
 ---
 
@@ -59,7 +59,7 @@ I chose this artefact because it connects BPM and the risk assessment process di
 
 ### Source PDF
 
-📄 [View / Download Artefact 2 PDF](pdf/artefact-2-risk-management-fmea.pdf)
+📄 [View / Download Artefact 2 PDF](artefact-2-risk-management-fmea.pdf)
 
 ---
 
@@ -80,7 +80,7 @@ I selected this artefact because it directly supports the Week 10 discussion of 
 
 ### Source PDF
 
-📄 [View / Download Artefact 3 PDF](pdf/artefact-3-lean-six-sigma.pdf)
+📄 [View / Download Artefact 3 PDF](artefact-3-lean-six-sigma.pdf)
 
 ---
 
@@ -101,7 +101,7 @@ I chose this Master's thesis because it helped me clearly understand the differe
 
 ### Source PDF
 
-📄 [View / Download Artefact 4 PDF](pdf/artefact-4-lean-vs-six-sigma-thesis.pdf)
+📄 [View / Download Artefact 4 PDF](artefact-4-lean-vs-six-sigma-thesis.pdf)
 
 ---
 
