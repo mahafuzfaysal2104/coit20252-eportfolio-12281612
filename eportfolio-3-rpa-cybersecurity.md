@@ -115,4 +115,4 @@ Tomaskova, H., Zvackova, A., Urbanik, P. & Palla, D. 2025, 'Risk management and 
 
 # AI Use Disclosure
 
-[Write your accurate AI-use disclosure here.]
+AI tools were used to a limited extent to support initial idea generation, source discovery, source verification, analytical framework development, and optional GitHub Markdown suggestions. I independently reviewed the selected sources, determined their relevance to the chosen subtopics, and refined the descriptions, explanations, and arguments used in this e-Portfolio. The final submitted work reflects my own understanding and academic judgement.
