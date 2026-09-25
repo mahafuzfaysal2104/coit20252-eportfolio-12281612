@@ -1,12 +1,16 @@
-# COIT20252 — Business Process Management
-## e-Portfolio 3: Robotic Process Automation and Process Cybersecurity
-### Term 1, 2026
+# e-Portfolio 3: Robotic Process Automation and Process Cybersecurity
+ 
+**COIT20252 Business Process Management**  
+**Term 1 2026**  
+**Name:** MD Mahafuz Faysal  
+**Student number:** 12281612  
+**Submitted:** Friday, 25 September 2026  
 
 ---
 
 ## Overview
 
-This e-Portfolio presents four artefacts related to process cybersecurity, risk management, and business process improvement. The selected artefacts connect concepts from Weeks 8, 9 and 10 with recent research and professional practice. The portfolio focuses on cybersecurity threats, process risk assessment, Lean Six Sigma, and the differences between Lean and Six Sigma.
+This e-Portfolio presents four artefacts related to process cybersecurity, risk management, and business process improvement. The selected artefacts connect concepts from Weeks 8, 9, and 10 with recent research and professional practice. The portfolio focuses on cybersecurity threats, process risk assessment, Lean Six Sigma, and the differences between Lean and Six Sigma.
 
 | Artefact | Week | Subtopic | Source Type |
 |---|---|---|---|
