@@ -29,14 +29,11 @@ I selected this artefact because cybersecurity is not only an IT issue; it can d
 
 ### Screenshot / Evidence
 
-<!-- Replace the path below with your actual screenshot -->
-![Artefact 1 - Cyber Security Insights 2025](images/artefact-1-cybersecurity.png)
-
-> **Figure 1:** Screenshot from *Cyber Security Insights 2025* showing evidence related to cybersecurity threats and controls.
+<img width="3438" height="2208" alt="image" src="https://github.com/user-attachments/assets/f01fbba9-a8e5-49b9-90e4-813037745d06" />  
+> **Screenshot 1:** Screenshot from *Cyber Security Insights 2025* showing evidence related to cybersecurity threats and controls.
 
 ### Source PDF
 
-<!-- Upload the PDF into the pdf folder in your GitHub repository -->
 📄 [View / Download Artefact 1 PDF](pdf/artefact-1-cyber-security-insights-2025.pdf)
 
 ---
@@ -49,18 +46,15 @@ Tomaskova et al. (2025) demonstrate how Failure Mode and Effects Analysis (FMEA)
 
 ## Justification
 
-I chose this artefact because it provides a practical connection between BPM and the risk assessment process discussed in Week 9. Instead of treating risks separately from the process, the study integrates risk information into process analysis. I found the measurable results especially interesting: after sensor integration, the total RPN decreased from 652.5 to 114.5, representing an 82% reduction in overall risk (Tomaskova et al. 2025, p. 111). This shows how risk identification, analysis, treatment and monitoring can support evidence-based business process improvement.
+I chose this artefact because it connects BPM and the risk assessment process discussed in Week 9. Instead of treating risks separately from the process, the study integrates risk information into process analysis. I found the measurable results especially interesting: after sensor integration, the total RPN decreased from 652.5 to 114.5, representing an 82% reduction in overall risk (Tomaskova et al. 2025, p. 111). This shows how risk identification, analysis, treatment, and monitoring can support evidence-based business process improvement.
 
 ### Screenshot / Evidence
 
-<!-- Replace the path below with your actual screenshot -->
-![Artefact 2 - FMEA and BPMN Risk Assessment](images/artefact-2-risk-assessment.png)
-
-> **Figure 2:** Screenshot from Tomaskova et al. (2025) showing the use of FMEA/BPMN for process risk assessment.
+<img width="3436" height="2198" alt="image" src="https://github.com/user-attachments/assets/50caf80a-5cf0-48a6-b7bf-8960fd8928ae" />  
+> **Screenshot 2:** Screenshot from Tomaskova et al. (2025) showing the use of FMEA/BPMN for process risk assessment.
 
 ### Source PDF
 
-<!-- This is the conference paper you uploaded -->
 📄 [View / Download Artefact 2 PDF](pdf/artefact-2-risk-management-fmea.pdf)
 
 ---
@@ -77,14 +71,11 @@ I selected this artefact because it directly supports the Week 10 discussion of 
 
 ### Screenshot / Evidence
 
-<!-- Replace the path below with your actual screenshot -->
-![Artefact 3 - Lean Six Sigma](images/artefact-3-lean-six-sigma.png)
-
-> **Figure 3:** Screenshot from Sakib, Kawsar and Bithee (2025) showing evidence related to Lean Six Sigma and continuous process improvement.
+<img width="3446" height="2200" alt="image" src="https://github.com/user-attachments/assets/45a82b16-bf59-4c87-a955-940b3fb0f72f" />  
+> **Screenshot 3:** Screenshot from Sakib, Kawsar and Bithee (2025) showing evidence related to Lean Six Sigma and continuous process improvement.
 
 ### Source PDF
 
-<!-- Upload your A3 journal article PDF here -->
 📄 [View / Download Artefact 3 PDF](pdf/artefact-3-lean-six-sigma.pdf)
 
 ---
@@ -97,18 +88,15 @@ Lindfors and Wiksfors (2025) explain that Lean and Six Sigma have different but 
 
 ## Justification
 
-I chose this Master's thesis because it helped me clearly understand the difference between Lean and Six Sigma from a practical process-improvement perspective. Lean is particularly useful for identifying waste and creating smoother process flow, whereas Six Sigma provides a systematic method for investigating problems and reducing variation. The thesis also explains that Lean Six Sigma combines DMAIC with Lean tools so that organisations can address errors, waste and variation while improving production flow (Lindfors & Wiksfors 2025, p. 2). This directly relates to Week 10 and shows why the two approaches can complement each other rather than being treated as competing methods.
+I chose this Master's thesis because it helped me clearly understand the difference between Lean and Six Sigma from a practical process-improvement perspective. Lean is particularly useful for identifying waste and creating smoother process flow, whereas Six Sigma provides a systematic method for investigating problems and reducing variation. The thesis also explains that Lean Six Sigma combines DMAIC with Lean tools so that organisations can address errors, waste and variation while improving production flow (Lindfors & Wiksfors 2025, p. 2). This directly relates to Week 10 and shows why the two approaches can complement each other rather than compete.
 
 ### Screenshot / Evidence
 
-<!-- Replace the path below with your actual screenshot -->
-![Artefact 4 - Lean vs Six Sigma](images/artefact-4-lean-vs-six-sigma.png)
-
-> **Figure 4:** Screenshot from Lindfors and Wiksfors (2025) illustrating the differences and relationship between Lean and Six Sigma.
+<img width="3456" height="2136" alt="image" src="https://github.com/user-attachments/assets/bdab975b-58bb-424a-b96b-9950a43e02a6" />  
+> **Screenshot 4:** Screenshot from Lindfors and Wiksfors (2025) illustrating the differences and relationship between Lean and Six Sigma.
 
 ### Source PDF
 
-<!-- Upload the Master's thesis PDF here -->
 📄 [View / Download Artefact 4 PDF](pdf/artefact-4-lean-vs-six-sigma-thesis.pdf)
 
 ---
